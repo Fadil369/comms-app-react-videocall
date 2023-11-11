@@ -20,7 +20,7 @@
     "@dolbyio/comms-uikit-react": "1.2.0",
     "@emotion/react": "^11.9.0",
     "@voxeet/voxeet-web-sdk": "^3.11.0",
-    "axios": "^0.26.1",
+    "axios": "^1.6.0",
     "classnames": "^2.3.1",
     "color": "4.2.3",
     "focus-trap-react": "^10.1.1",
